@@ -1,0 +1,33 @@
+FAN ON/OFF			Received 3972038414 / 32bit Protocol: 6
+LUZ ON/OFF			Received 2780856078 / 32bit Protocol: 6
+
+LUZ AMARILLA			Received 1623228174 / 32bit Protocol: 6
+LUZ BLANCA			Received 113278734 / 32bit Protocol: 6
+LUZ AZUL			Received 230719246 / 32bit Protocol: 6		
+
+BRILLO BAJAR			Received 4123033358 / 32bit Protocol: 6
+BRILLO SUBIR			Received 1606450958 / 32bit Protocol: 6
+
+INVERTIR VENTILADOR		Received 4257251086 / 32bit Protocol: 6
+
+VELOCIDAD 1			Received 4223696654 / 32bit Protocol: 6
+VELOCIDAD 2			Received 4274028302 / 32bit Protocol: 6
+VELOCIDAD 3			Received 1522564878 / 32bit Protocol: 6
+VELOCIDAD 4			Received 4022370062 / 32bit Protocol: 6
+VELOCIDAD 5			Received 3217063694 / 32bit Protocol: 6
+
+2 HORAS				Received 4156587790 / 32bit Protocol: 6
+4 HORAS				Received 2143321870 / 32bit Protocol: 6
+8 HORAS				Received 3753934606 / 32bit Protocol: 6
+
+
+PINES CC1101
+
+1	GND
+2	VCC	GPIO 25
+3	GDO0	GPIO 14
+4	CSN	GPIO 5
+5	SCK	GPIO 18
+6	MOSI	GPIO 23
+7	MISO	GPIO 19
+8	GDO2	GPIO 4 (No es necesario en modo transmisión, solo para recepción)
