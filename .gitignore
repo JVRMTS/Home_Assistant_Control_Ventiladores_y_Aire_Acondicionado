@@ -1,0 +1,10 @@
+debug.cfg
+debug.svd
+inols.log
+inols-changd.log
+inols-changd-err.log
+inols-err.log
+inols*.*
+debug*.*
+arduino*
+vscod*
